@@ -1,0 +1,207 @@
+{
+  "profile": {
+    "name": "Rishi Mohan",
+    "title": "Engineering Scalable Systems & Blockchains",
+    "subtitle": "Building Full-Stack 3D Web Experiences and More",
+    "description": "A passionate 3rd-year Computer Science student at PES University. I specialize in building scalable web applications, blockchain systems, and exploring machine learning on the side.",
+    "location": "Bengaluru, Karnataka",
+    "email": "rishimohan67@gmail.com"
+  },
+
+  "images": {
+    "hero": "./images/RISHI FRONT PHOTO.jpeg",
+    "projects": {
+      "celestial": "./images/celestial.png",
+      "crimesolve": "./images/CRIMESOLVE.png",
+      "asteroid": "./images/ASTEROID.png",
+      "warwatch": "./images/warwatch.png"
+    }
+  },
+
+  "links": {
+    "github": "https://github.com/rishimohan2715",
+    "linkedin": "https://www.linkedin.com/in/rishimohan2715",
+    "email": "mailto:rishimohan67@gmail.com"
+  },
+
+  "projects": [
+    {
+      "id": 1,
+      "title": "Interactive Celestial Data Visualizer",
+      "subtitle": "Stargazing Guide",
+      "description": "Immersive 3D web experience visualizing celestial bodies, orbital mechanics, and astronomical phenomena in real-time.",
+      "image": "./images/celestial.png",
+      "tags": ["Three.js", "WebGL", "React", "Data Viz"],
+      "link": "#",
+      "github": "https://github.com/rishimohan2715/rishis-stargazing-guide.git",
+      "demo": "https://rishis-live-stargazing-guide.vercel.app/"
+    },
+    {
+      "id": 2,
+      "title": "CrimeSolve",
+      "subtitle": "Crime Intelligence Platform",
+      "description": "End-to-end crime intelligence platform. Ingests CSV incidents into Neo4j, generates LLM-based narratives, links entities across crimes, and produces inference reports.",
+      "image": "./images/CRIMESOLVE.png",
+      "tags": ["Neo4j", "LLM APIs", "Python", "Graph DB"],
+      "link": "#",
+      "github": "https://github.com/rishimohan2715/CrimeSolve.git",
+      "demo": "https://crimesolve.example.com"
+    },
+    {
+      "id": 3,
+      "title": "Asteroid Hazard Classification",
+      "subtitle": "ML Model for Orbital Prediction",
+      "description": "Machine learning classification system for potentially hazardous asteroids. Addresses class imbalance with SMOTE and develops interpretable models using Random Forests & XGBoost.",
+      "image": "./images/ASTEROID.png",
+      "tags": ["Scikit-learn", "XGBoost", "Python", "SMOTE"],
+      "link": "#",
+      "github": "https://github.com/rishimohan2715/asteroid-hazard-classification.git",
+      "paper": "https://arxiv.org/example"
+    },
+    {
+      "id": 4,
+      "title": "WarWatch",
+      "subtitle": "Real-Time OSINT Platform",
+      "description": "Open-source real-time OSINT platform for monitoring global conflicts, aviation, and maritime activities with interactive 3D visualizations.",
+      "image": "./images/warwatch.png",
+      "tags": ["React", "Three.js", "Node.js", "OSINT"],
+      "link": "#",
+      "github": "https://github.com/rishimohan2715/WarWatch.git",
+      "demo": "https://warwatch.example.com"
+    }
+  ],
+
+  "skills": {
+    "frontend": [
+      { "name": "React", "level": "Advanced" },
+      { "name": "TypeScript", "level": "Advanced" },
+      { "name": "Tailwind CSS", "level": "Advanced" },
+      { "name": "Next.js", "level": "Intermediate" },
+      { "name": "Three.js", "level": "Intermediate" }
+    ],
+    "backend": [
+      { "name": "Node.js", "level": "Advanced" },
+      { "name": "Java/Spring Boot", "level": "Advanced" },
+      { "name": "Python", "level": "Advanced" },
+      { "name": "Express.js", "level": "Advanced" },
+      { "name": "GraphQL", "level": "Intermediate" }
+    ],
+    "blockchain": [
+      { "name": "Solidity", "level": "Intermediate" },
+      { "name": "Web3.js", "level": "Intermediate" },
+      { "name": "Smart Contracts", "level": "Intermediate" },
+      { "name": "Ethereum", "level": "Intermediate" },
+      { "name": "DeFi Protocols", "level": "Basic" }
+    ],
+    "database": [
+      { "name": "PostgreSQL", "level": "Advanced" },
+      { "name": "MongoDB", "level": "Intermediate" },
+      { "name": "Neo4j", "level": "Intermediate" },
+      { "name": "Redis", "level": "Basic" },
+      { "name": "Firebase", "level": "Intermediate" }
+    ],
+    "devops": [
+      { "name": "Docker", "level": "Intermediate" },
+      { "name": "AWS", "level": "Intermediate" },
+      { "name": "Kubernetes", "level": "Basic" },
+      { "name": "CI/CD", "level": "Advanced" },
+      { "name": "GitHub Actions", "level": "Intermediate" }
+    ],
+    "tools": [
+      { "name": "Git & GitHub", "level": "Advanced" },
+      { "name": "Machine Learning", "level": "Advanced" },
+      { "name": "System Design", "level": "Advanced" },
+      { "name": "Problem Solving", "level": "Advanced" },
+      { "name": "Agile/Scrum", "level": "Intermediate" }
+    ]
+  },
+
+  "technologies": [
+    {
+      "name": "React",
+      "category": "Frontend",
+      "icon": "⚛️",
+      "color": "#61dafb"
+    },
+    {
+      "name": "TypeScript",
+      "category": "Language",
+      "icon": "📘",
+      "color": "#3178c6"
+    },
+    {
+      "name": "Tailwind CSS",
+      "category": "Styling",
+      "icon": "🎨",
+      "color": "#06b6d4"
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend",
+      "icon": "🟢",
+      "color": "#68a063"
+    },
+    {
+      "name": "Python",
+      "category": "Language",
+      "icon": "🐍",
+      "color": "#3776ab"
+    },
+    {
+      "name": "Solidity",
+      "category": "Blockchain",
+      "icon": "⛓️",
+      "color": "#ff9500"
+    },
+    {
+      "name": "AWS",
+      "category": "Cloud",
+      "icon": "☁️",
+      "color": "#ff9900"
+    },
+    {
+      "name": "Docker",
+      "category": "DevOps",
+      "icon": "🐳",
+      "color": "#2496ed"
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Database",
+      "icon": "🗄️",
+      "color": "#336791"
+    },
+    {
+      "name": "Neo4j",
+      "category": "Database",
+      "icon": "📊",
+      "color": "#008cc1"
+    }
+  ],
+
+  "social": {
+    "github": {
+      "name": "GitHub",
+      "url": "https://github.com/rishimohan2715",
+      "icon": "github"
+    },
+    "linkedin": {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/rishimohan2715",
+      "icon": "linkedin"
+    },
+    "email": {
+      "name": "Email",
+      "url": "mailto:rishimohan67@gmail.com",
+      "icon": "mail"
+    }
+  },
+
+  "metadata": {
+    "title": "Rishi Mohan | Scalable Systems & Blockchains",
+    "description": "Portfolio of Rishi Mohan - 3rd-year CSE student at PES University specializing in blockchain, cloud, and scalable systems.",
+    "author": "Rishi Mohan",
+    "year": 2026,
+    "version": "1.0.0"
+  }
+}
